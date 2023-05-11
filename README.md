@@ -24,5 +24,5 @@ The Cine hall and auditorium provide an excellent platform for video viewing. Us
 ## Wall of fame for photos and Connect and Learning room for books and resources
 The application also includes a Wall of Fame for photos and a Connect and Learning room for books and resources. Users can access these resources within the virtual event environment, making it easier to access information and engage with other users.
 
-## Conclusion
+# Conclusion
 The AR/VR application is an excellent tool for enhancing the virtual event experience. Its range of features, including immersive 360-degree images and UI options, registration system with user data stored in Firebase Cloud Firestore, UI buttons for easy navigation between rooms, chatbox for user interaction, Cine hall and auditorium for video viewing, and Wall of Fame for photos and Connect and Learning room for books and resources, make it an ideal platform for attending virtual events.
