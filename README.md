@@ -1,6 +1,6 @@
 # AR-VR-Virtual-Event-App
 The use of AR/VR technology has become increasingly popular in recent years, particularly in the entertainment industry. However, the COVID-19 pandemic has brought about a shift in the way we attend events and interact with each other. As a result, the demand for virtual events has increased, leading to the need for immersive and seamless experiences.
-![AR/VR Application Screenshot](https://drive.google.com/file/d/1dI7l1d0-SBAOHqh13OTYya-aXvl1YiDr/view?usp=share_link"AR/VR Application Screenshot")
+![AR/VR Application Screenshot](https://drive.google.com/file/d/1dI7l1d0-SBAOHqh13OTYya-aXvl1YiDr/view?usp=share_link "AR/VR Application Screenshot")
 
 ![AR/VR Application Screenshot]("C:/Users/ushap/OneDrive/Pictures/Screenshots/Screenshot (112).png")
 
